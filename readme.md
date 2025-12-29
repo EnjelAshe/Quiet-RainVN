@@ -1,6 +1,6 @@
 # Quiet Rain
 
-Final game project submitted for school.
+Final game project for submission.
 
 ## How to Download & Play
 1. Go to the **Releases** section of this repository
@@ -13,5 +13,6 @@ Final game project submitted for school.
 
 ## Notes
  You can click on your spacebar as well to progress the story!
+
 
  Fn + F11 to Full Screen
