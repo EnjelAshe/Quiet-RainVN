@@ -70,7 +70,7 @@ A story about grief, quiet presence, and learning that sometimes the bravest thi
 
 # 🛠️ Development & Packaging Stack
 
-## 📅 Development Timeline
+## Development Timeline
 - **November 24-31, 2025:** Planning, story outline, asset creation
 - **December 1-22, 2025:** Testing assets, learning syntax
 - **December 23-24, 2025:** Chapter 1-2 implementation
@@ -97,7 +97,7 @@ A story about grief, quiet presence, and learning that sometimes the bravest thi
 - **Audio:** FFmpeg codec support
 - **Version Control:** Git/GitHub
 
-## 🖥️ Desktop Packaging
+## Desktop Packaging
 
 This game was packaged for desktop using the **Ren'JS Desktop Packager**, which utilizes:
 
@@ -107,3 +107,4 @@ This game was packaged for desktop using the **Ren'JS Desktop Packager**, which 
 - **Graphics:** WebGL via OpenGL ES 2.0
 - **Audio:** FFmpeg for MP3/WAV playback
 - **Packaging Tool:** Electron Forge
+
