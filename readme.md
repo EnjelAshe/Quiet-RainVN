@@ -22,7 +22,7 @@ A story about grief, quiet presence, and learning that sometimes the bravest thi
 # 🕹️ Development Team
 
 ## Uramae Chiu
-**Role:** Developer / Project Lead \
+**Role:** Lead Developer \
 **Responsibilities:**
 - Game design and narrative writing
 - Character art and sprite creation  
@@ -89,4 +89,5 @@ This game was packaged for desktop using the **Ren'JS Desktop Packager**, which 
 - **Graphics:** WebGL via OpenGL ES 2.0
 - **Audio:** FFmpeg for MP3/WAV playback
 - **Packaging Tool:** Electron Forge
+
 
