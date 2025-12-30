@@ -1,7 +1,28 @@
+# **Story Overview**
+
+**Quiet Rain** is an emotional, character-driven short visual novel exploring themes of loneliness, healing, and human connection. Follow the story of Rei, a girl carrying invisible burdens, as you navigate delicate relationships through meaningful choices that shape both your journey and hers.
+
+##  **The Journey**
+Over five chapters, you navigate delicate moments: discovering her journal of painful lists, sharing quiet spaces, witnessing her grief over her cousin's stained mug, and finally facing her spiral when she washes the mug clean.
+
+## **Features**
+- Branching narrative with meaningful choices that matter
+- Two distinct endings based on player decisions
+- Atmospheric pixel-art visuals and immersive sound design
+- Emotional storytelling with mental health awareness
+- With save/load functionality
+- Multiple character expressions and backgrounds
+- Original soundtrack and sound effects
+
+## **The Core**
+A story about grief, quiet presence, and learning that sometimes the bravest thing is to just witness someone's pain without trying to solve it.
+
+---
+
 # 🕹️ Development Team
 
 ## Uramae Chiu
-**Role:** Developer / Project Lead
+**Role:** Developer / Project Lead \
 **Responsibilities:**
 - Game design and narrative writing
 - Character art and sprite creation  
@@ -12,7 +33,7 @@
 - Project management and deployment
 
 ## Hannah Diapolet Serrano
-**Role:** Assistant
+**Role:** Assistant\
 **Responsibilities:**
 - Background art coordination
 - Audio selection and integration
@@ -68,3 +89,4 @@ This game was packaged for desktop using the **Ren'JS Desktop Packager**, which 
 - **Graphics:** WebGL via OpenGL ES 2.0
 - **Audio:** FFmpeg for MP3/WAV playback
 - **Packaging Tool:** Electron Forge
+
