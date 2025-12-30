@@ -1,18 +1,35 @@
-# Quiet Rain
+# Development Team
 
-Final game project for submission.
+## Uramae Chiu
+**Role:** Developer / Project Lead
+**Responsibilities:**
+- Game design and narrative writing
+- Character art and sprite creation  
+- Background art coordination
+- Programming (Ren'JS, JavaScript, Electron)
+- UI/UX design and implementation
+- Audio selection and integration
+- Project management and deployment
 
-## How to Download & Play
-1. Go to the **Releases** section of this repository
-2. Download the latest Windows build (ZIP)
-3. Extract the ZIP
-4. Run the `.exe` file
+## Hannah Diapolet Serrano
+**Role:** Assistant
+**Responsibilities:**
+- Background art coordination
+- Audio selection and integration
 
-## Platform
-- Windows 64-bit
+## Contributing Artists
+**min_chi__e** - Background Art
+**Audio assets from:** 
+- freesound.org
+- DOVA-SYNDROME
 
-## Notes
- You can click on your spacebar as well to progress the story!
+## Special Thanks
+- **Ren'JS Community** - Engine support and documentation
+- **James Earl Cubillas** - Project guidance and feedback
 
+---
 
- Fn + F11 to Full Screen
+### Development Timeline
+**11/30/2025 - 12/7/2025:** Planning, story outline, asset creation
+**12/11/2-25 - 12/14/2015** Testing assets, Learning the syntax, Chapter 1-3 implementation
+**12/14/2-25 - 12/19/2025** Chapter 4-5, endings, testing, editing/polish, deployment
