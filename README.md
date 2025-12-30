@@ -1,5 +1,4 @@
-# Quiet-RainVN-V1
-Finished game build for submission.
+# Quiet Rain VN
 
 # Where to start?
 1. Go to the Release section.
